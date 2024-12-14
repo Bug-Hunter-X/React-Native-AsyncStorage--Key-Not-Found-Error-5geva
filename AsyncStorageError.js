@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in React Native and the key you are trying to access does not exist.  It's different from a null value; it's an indication that the key is completely absent from the AsyncStorage.
