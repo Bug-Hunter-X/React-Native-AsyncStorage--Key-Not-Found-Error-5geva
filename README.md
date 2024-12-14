@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native when working with AsyncStorage: attempting to access a key that does not exist.  The example shows how the error manifests and provides a robust solution to prevent app crashes.  The solution includes error handling and a check to ensure that the key exists before attempting to retrieve its value.
